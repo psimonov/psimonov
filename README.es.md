@@ -1,5 +1,8 @@
 # Pavel Simonov
 [English](README.md) · Español · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+
+---
+
 Arquitecto de software y líder de ingeniería · Replanteando los productos y la forma de desarrollarlos mediante la inteligencia artificial y la tecnología moderna.
 
 Trabajo en la intersección del pensamiento de producto, la arquitectura de software y el liderazgo de ingeniería. Mi objetivo no es solo crear software, sino también reconsiderar qué debe ser un producto, cómo la tecnología puede simplificarlo y cómo las prácticas modernas de ingeniería y la inteligencia artificial pueden mejorar su diseño y entrega.

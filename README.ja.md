@@ -2,6 +2,8 @@
 
 [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · 日本語 · [한국어](README.ko.md)
 
+---
+
 ソフトウェアアーキテクト兼エンジニアリングリード · AIとモダンテクノロジーを通じて、プロダクトとその開発手法を再考しています。
 
 プロダクト思考、ソフトウェアアーキテクチャ、エンジニアリングリーダーシップが交わる領域で活動しています。単にソフトウェアを構築するだけでなく、プロダクトのあるべき姿、テクノロジーによる簡素化、そしてモダンなエンジニアリングプラクティスとAIによる設計・提供プロセスの改善に取り組んでいます。

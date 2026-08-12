@@ -2,6 +2,8 @@
 
 [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md) · [हिन्दी](README.hi.md) · العربية · [日本語](README.ja.md) · [한국어](README.ko.md)
 
+---
+
 <div dir="rtl">
 
 مهندس معماري للبرمجيات وقائد هندسي · أعيد التفكير في المنتجات وفي كيفية تطويرها من خلال الذكاء الاصطناعي والتقنيات الحديثة.

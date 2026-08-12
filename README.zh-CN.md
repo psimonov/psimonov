@@ -1,5 +1,8 @@
 # Pavel Simonov
 [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · 简体中文 · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+
+---
+
 软件架构师与工程负责人 · 运用人工智能和现代技术，重新思考产品及其工程实现方式。
 
 我的工作聚焦于产品思维、软件架构与工程领导力的交汇处。我关注的不只是构建软件，还包括重新审视产品应有的形态、探索如何通过技术简化产品，以及如何利用现代工程实践和人工智能改进产品的设计与交付。
