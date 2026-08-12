@@ -1,5 +1,5 @@
 # Pavel Simonov
-
+[English](README.md) · Español · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 [English](README.md) · Español · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md)
 
 Arquitecto de software y líder de ingeniería · Replanteando los productos y la forma de desarrollarlos mediante la inteligencia artificial y la tecnología moderna.
