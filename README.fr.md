@@ -1,0 +1,16 @@
+# Pavel Simonov
+
+[English](README.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Deutsch](README.de.md) · Français · [Italiano](README.it.md) · [简体中文](README.zh-CN.md)
+
+Architecte logiciel et responsable d’ingénierie · Je repense les produits et leur conception grâce à l’intelligence artificielle et aux technologies modernes.
+
+Je travaille à l’intersection de la réflexion produit, de l’architecture logicielle et du leadership technique. Mon objectif n’est pas seulement de créer des logiciels, mais aussi de reconsidérer ce que doit être un produit, la manière dont la technologie peut le simplifier et comment les pratiques modernes d’ingénierie et l’intelligence artificielle peuvent améliorer sa conception et sa mise en production.
+
+## Domaines d’intérêt
+
+- Architecture produit et logicielle
+- Processus produit et d’ingénierie assistés par l’IA
+- Outils de développement et automatisation
+- Applications CLI et de bureau multiplateformes
+- Écosystèmes Rust et TypeScript
+- Leadership technique et stratégie technologique
