@@ -1,6 +1,6 @@
 # Pavel Simonov
 
-[English](README.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Deutsch](README.de.md) · Français · [Italiano](README.it.md) · [简体中文](README.zh-CN.md)
+[English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · Français · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md)
 
 Architecte logiciel et responsable d’ingénierie · Je repense les produits et leur conception grâce à l’intelligence artificielle et aux technologies modernes.
 

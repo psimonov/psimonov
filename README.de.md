@@ -1,6 +1,6 @@
 # Pavel Simonov
 
-[English](README.md) · [Русский](README.ru.md) · [Español](README.es.md) · Deutsch · [Français](README.fr.md) · [Italiano](README.it.md) · [简体中文](README.zh-CN.md)
+[English](README.md) · [Español](README.es.md) · Deutsch · [Français](README.fr.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md)
 
 Softwarearchitekt und Engineering Lead · Ich denke Produkte und ihre technische Umsetzung mit KI und modernen Technologien neu.
 

@@ -1,6 +1,6 @@
 # Павел Симонов
 
-[English](README.md) · Русский · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [简体中文](README.zh-CN.md)
+[English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · Русский · [简体中文](README.zh-CN.md)
 
 Архитектор программного обеспечения и технический руководитель · Переосмысляю продукты и подходы к их разработке с помощью искусственного интеллекта и современных технологий.
 

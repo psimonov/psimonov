@@ -1,6 +1,6 @@
 # Pavel Simonov
 
-English · [Русский](README.ru.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [简体中文](README.zh-CN.md)
+English · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md)
 
 Software Architect & Engineering Lead · Rethinking products and how they’re engineered through AI and modern technology.
 

@@ -1,6 +1,6 @@
 # Pavel Simonov
 
-[English](README.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · 简体中文
+[English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · 简体中文
 
 软件架构师与工程负责人 · 运用人工智能和现代技术，重新思考产品及其工程实现方式。
 
